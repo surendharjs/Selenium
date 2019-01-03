@@ -18,6 +18,8 @@ time.sleep (5)
 
 driver.close()
 
+exit()
+
 
 
 
